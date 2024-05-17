@@ -1,4 +1,10 @@
 
+pair:
+  mainnets:
+    - darwinia-crab
+  testnets:
+    - sepolia-arbitrumsepolia
+
 chain:
   crab:
     name: "crab"
