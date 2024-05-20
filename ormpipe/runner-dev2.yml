@@ -1,0 +1,14 @@
+
+ormpipe:
+  image: ghcr.io/msgport/ormpipe:sha-266a238
+  features:
+    - oracle
+    - relayer
+  pairs:
+    - sepolia-arbitrumsepolia
+    - sepolia-pangolin
+    - pangolin-arbitrumsepolia
+    - taikohekla-arbitrumsepolia
+    - sepolia-tronshasta
+    - sepolia-pangoro
+    - pangolin-tronshasta

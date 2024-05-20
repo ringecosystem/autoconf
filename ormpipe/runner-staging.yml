@@ -1,0 +1,12 @@
+
+ormpipe:
+  image: ghcr.io/darwinia-network/ormpipe:sha-b24e208
+  features:
+    - oracle
+    - relayer
+  pairs:
+    - sepolia-pangolin
+    - arbitrumsepolia-pangolin
+    - sepolia-arbitrumsepolia
+
+

@@ -1,0 +1,15 @@
+
+ormpipe:
+  image: ghcr.io/darwinia-network/ormpipe:sha-b24e208
+  features:
+    - oracle
+    - relayer
+  pairs:
+    - darwinia-crab
+    - darwinia-arbitrum
+    - darwinia-ethereum
+    - ethereum-arbitrum
+    - darwinia-polygon
+    - arbitrum-blast
+
+
