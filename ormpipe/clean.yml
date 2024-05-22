@@ -1,4 +1,4 @@
 
 ormpipe:
-  ormpipe:
+  profiles:
     - dev
