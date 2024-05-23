@@ -1,6 +1,6 @@
 
 ormpipe:
-  image: ghcr.io/darwinia-network/ormpipe:sha-33ef96b
+  image: ghcr.io/msgport/ormpipe:sha-33ef96b
   pairs:
     - sepolia-pangolin
     - arbitrumsepolia-pangolin
