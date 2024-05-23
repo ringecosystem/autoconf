@@ -2,6 +2,7 @@ chain:
   crab:
     name: "crab"
     chainId: "44"
+    confirmations: 10
     endpoint: "http://c2.crab-rpc.itering.io:9944/"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -15,6 +16,7 @@ chain:
   darwinia:
     name: "darwinia"
     chainId: "46"
+    confirmations: 10
     endpoint: "http://c2.darwinia-rpc.itering.io:9944/"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -28,6 +30,7 @@ chain:
   pangolin:
     name: "pangolin"
     chainId: "43"
+    confirmations: 10
     endpoint: "http://g2.testnets.darwinia.network:9940"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -41,6 +44,7 @@ chain:
   pangoro:
     name: "pangoro"
     chainId: "45"
+    confirmations: 10
     endpoint: "https://fraa-flashbox-2871-rpc.a.stagenet.tanssi.network"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -54,6 +58,7 @@ chain:
   sepolia:
     name: "sepolia"
     chainId: "11155111"
+    confirmations: 15
     endpoint: "https://ethereum-sepolia-rpc.publicnode.com"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -67,6 +72,7 @@ chain:
   taikohekla:
     name: "taikohekla"
     chainId: "167009"
+    confirmations: 5
     endpoint: "https://rpc.hekla.taiko.xyz"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -80,6 +86,7 @@ chain:
   tronshasta:
     name: "tronshasta"
     chainId: "2494104990"
+    confirmations: 5
     endpoint: "https://api.shasta.trongrid.io"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -93,6 +100,7 @@ chain:
   arbitrumsepolia:
     name: "arbitrumsepolia"
     chainId: "421614"
+    confirmations: 20
     endpoint: "https://sepolia-rollup.arbitrum.io/rpc"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -106,6 +114,7 @@ chain:
   arbitrum:
     name: "arbitrum"
     chainId: "42161"
+    confirmations: 20
     endpoint: "https://arbitrum-one-rpc.publicnode.com"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -119,6 +128,7 @@ chain:
   ethereum:
     name: "ethereum"
     chainId: "1"
+    confirmations: 15
     endpoint: "https://ethereum-rpc.publicnode.com"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -132,6 +142,7 @@ chain:
   polygon:
     name: "polygon"
     chainId: "137"
+    confirmations: 512
     endpoint: "https://polygon-bor-rpc.publicnode.com"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
@@ -145,6 +156,7 @@ chain:
   blast:
     name: "blast"
     chainId: "238"
+    confirmations: 64
     endpoint: "https://rpc.blast.io"
     indexer:
       ormp: "https://ormponder.darwinia.network/"
