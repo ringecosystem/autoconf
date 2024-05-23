@@ -34,9 +34,9 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x51AB5e383430042eE0bAfc23a7715E71F8e56a63"
-      ormp: "0xdf7b91c92Ac62447Ccb92bd39f41727466534043"
-      oracle: "0x833D98516A0194305afd882e06AF21fa386B91e9"
+      relayer: "0xaC2b224c2E1eD2E8663097a361A05a72d6671C7D"
+      ormp: "0xA72d283015c01807bc0788Bf22C1A774bDbFC8fA"
+      oracle: "0x3f938756ceFa33665719Eb528E581FF3f460b7C6"
       multisig: "0x22117Db68370590c1031f52a6D1aDE3DCe0cCf9a"
   pangoro:
     name: "pangoro"
@@ -47,10 +47,10 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x1cFe6d573391094d90cB9f90B754C889b770bfEa"
-      ormp: "0xE46ed7594fFa6AD7c3b5232827EC2AF8f94beb38"
-      oracle: "0x2E0c9AfF4320147E17d5D9A65a82010ce93Ba255"
-      multisig: "0xd630d598Bf0f6575940bE108BAD39A7eaFD72198"
+      relayer: "0xaC2b224c2E1eD2E8663097a361A05a72d6671C7D"
+      ormp: "0xA72d283015c01807bc0788Bf22C1A774bDbFC8fA"
+      oracle: "0x3f938756ceFa33665719Eb528E581FF3f460b7C6"
+      multisig: "0x22117Db68370590c1031f52a6D1aDE3DCe0cCf9a"
   sepolia:
     name: "sepolia"
     chainId: "11155111"
@@ -60,9 +60,9 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x51AB5e383430042eE0bAfc23a7715E71F8e56a63"
-      ormp: "0xdf7b91c92Ac62447Ccb92bd39f41727466534043"
-      oracle: "0x833D98516A0194305afd882e06AF21fa386B91e9"
+      relayer: "0xaC2b224c2E1eD2E8663097a361A05a72d6671C7D"
+      ormp: "0xA72d283015c01807bc0788Bf22C1A774bDbFC8fA"
+      oracle: "0x3f938756ceFa33665719Eb528E581FF3f460b7C6"
       multisig: "0x22117Db68370590c1031f52a6D1aDE3DCe0cCf9a"
   taikohekla:
     name: "taikohekla"
@@ -73,9 +73,9 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x51AB5e383430042eE0bAfc23a7715E71F8e56a63"
-      ormp: "0xdf7b91c92Ac62447Ccb92bd39f41727466534043"
-      oracle: "0x833D98516A0194305afd882e06AF21fa386B91e9"
+      relayer: "0xaC2b224c2E1eD2E8663097a361A05a72d6671C7D"
+      ormp: "0xA72d283015c01807bc0788Bf22C1A774bDbFC8fA"
+      oracle: "0x3f938756ceFa33665719Eb528E581FF3f460b7C6"
       multisig: "0x22117Db68370590c1031f52a6D1aDE3DCe0cCf9a"
   tronshasta:
     name: "tronshasta"
@@ -99,9 +99,9 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x51AB5e383430042eE0bAfc23a7715E71F8e56a63"
-      ormp: "0xdf7b91c92Ac62447Ccb92bd39f41727466534043"
-      oracle: "0x833D98516A0194305afd882e06AF21fa386B91e9"
+      relayer: "0xaC2b224c2E1eD2E8663097a361A05a72d6671C7D"
+      ormp: "0xA72d283015c01807bc0788Bf22C1A774bDbFC8fA"
+      oracle: "0x3f938756ceFa33665719Eb528E581FF3f460b7C6"
       multisig: "0x22117Db68370590c1031f52a6D1aDE3DCe0cCf9a"
   arbitrum:
     name: "arbitrum"
