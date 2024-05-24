@@ -1,6 +1,6 @@
 
 ormpipe:
-  image: ghcr.io/msgport/ormpipe:sha-9bb3632
+  image: ghcr.io/msgport/ormpipe:sha-2dcb76a
   pairs:
     - sepolia-arbitrumsepolia
     - sepolia-pangolin
