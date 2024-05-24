@@ -93,9 +93,9 @@ chain:
       signcribe: "https://ormponder.darwinia.network/"
     contract:
       signcribe: "0xb2aa34fde97ffdb6197dd5a2be23c2121405cc12"
-      relayer: "0x0EEf3478C2E34c36Bb13B8B235096D5c361873bF"
-      ormp: "0x13c991C5BEf30c0E8600D95B8554B4DeDa4853b8"
-      oracle: "0x58facC3a63CEF6d806E08d9189B37351dd4aE9C3"
+      relayer: "0xaBFEBd81169de74f5a9Dbd7C1b5E349E835852E8"
+      ormp: "0x841B6b2F3148131Ac161d88edFb2C11F146e189F"
+      oracle: "0x488116286B253D61FFd41F4948c288c3C672918F"
       multisig: "0x3230E2da90220A80F9560aC5f609c7De25b14aD6"
   arbitrumsepolia:
     name: "arbitrumsepolia"
