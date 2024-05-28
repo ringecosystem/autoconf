@@ -7,6 +7,7 @@ ormpipe:
     - darwinia-ethereum
     - darwinia-polygon
     - darwinia-moonbeam
+    - darwinia-tron
     - arbitrum-blast
     - ethereum-arbitrum
 
