@@ -1,0 +1,13 @@
+
+ormpipe:
+  image: ghcr.io/msgport/ormpipe:sha-2dcb76a
+  pairs:
+    - darwinia-crab
+    - darwinia-arbitrum
+    - darwinia-ethereum
+    - darwinia-polygon
+    - darwinia-moonbeam
+    - arbitrum-blast
+    - ethereum-arbitrum
+
+
