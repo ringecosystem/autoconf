@@ -185,7 +185,7 @@ chain:
     name: "tron"
     chainId: "728126428"
     confirmations: 5
-    endpoint: "https://api.trongrid.io/jsonrpc"
+    endpoint: "https://api.trongrid.io"
     indexer:
       ormp: "https://ormponder.msgport.xyz"
       signcribe: "https://ormponder.msgport.xyz"
