@@ -6,3 +6,6 @@ ormpipe:
     - taikohekla-arbitrumsepolia
     - sepolia-tronshasta
     - sepolia-pangoro
+    - koi-arbitrumsepolia
+    - koi-tronshasta
+    - koi-sepolia
