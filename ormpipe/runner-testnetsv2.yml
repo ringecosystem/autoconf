@@ -2,10 +2,7 @@
 ormpipe:
   image: ghcr.io/msgport/ormpipe:sha-2dcb76a
   pairs:
-    # - sepolia-arbitrumsepolia
-    - sepolia-pangolin
-    # - pangolin-arbitrumsepolia
-    # - taikohekla-arbitrumsepolia
-    # - sepolia-tronshasta
-    # - sepolia-pangoro
-    # - pangolin-tronshasta
+    - sepolia-arbitrumsepolia
+    - taikohekla-arbitrumsepolia
+    - sepolia-tronshasta
+    - sepolia-pangoro
