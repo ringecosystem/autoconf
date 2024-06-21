@@ -145,7 +145,7 @@ chain:
     confirmations: 10
     endpoint: "https://moonbeam-rpc.dwellir.com"
     indexer:
-      ormp: "https://ormponder.msgport.xyz"
+      ormp: "https://ormponder.vercel.app/moonbeam"
       signcribe: "https://ormponder.vercel.app/darwinia"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
@@ -159,7 +159,7 @@ chain:
     confirmations: 512
     endpoint: "https://polygon-bor-rpc.publicnode.com"
     indexer:
-      ormp: "https://ormponder.msgport.xyz"
+      ormp: "https://ormponder.vercel.app/polygon"
       signcribe: "https://ormponder.vercel.app/darwinia"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
