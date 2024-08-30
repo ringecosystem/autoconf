@@ -185,7 +185,7 @@ chain:
     name: "tron"
     chainId: "728126428"
     confirmations: 5
-    endpoint: "https://api.trongrid.io"
+    endpoint: "https://api.tronstack.io"
     indexer:
       ormp: "https://ormponder.darwinia.network/tron"
       signcribe: "https://ormponder.darwinia.network/darwinia"
