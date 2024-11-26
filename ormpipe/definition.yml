@@ -17,7 +17,7 @@ chain:
     name: "darwinia"
     chainId: "46"
     confirmations: 10
-    endpoint: "http://c2.darwinia-rpc.itering:9944 "
+    endpoint: "http://c1.darwinia-rpc.itering.io:9944/"
     indexer:
       ormp: "https://ormponder.darwinia.network/darwinia"
       signcribe: "https://ormponder.darwinia.network/darwinia"
