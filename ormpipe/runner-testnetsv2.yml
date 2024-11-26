@@ -1,6 +1,6 @@
 
 ormpipe:
-  image: ghcr.io/msgport/ormpipe:sha-2467a69
+  image: ghcr.io/ringecosystem/ormpipe:sha-73cb625
   pairs:
     - sepolia-arbitrumsepolia
     - taikohekla-arbitrumsepolia
