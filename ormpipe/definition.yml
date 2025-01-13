@@ -59,7 +59,7 @@ chain:
     name: "sepolia"
     chainId: "11155111"
     confirmations: 15
-    endpoint: "https://1rpc.io/sepolia"
+    endpoint: "https://endpoints.omniatech.io/v1/eth/sepolia/public"
     indexer:
       ormp: "https://ormponder.darwinia.network/sepolia"
       signcribe: "https://ormponder.darwinia.network/darwinia"
