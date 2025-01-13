@@ -101,7 +101,7 @@ chain:
     name: "arbitrumsepolia"
     chainId: "421614"
     confirmations: 20
-    endpoint: "https://arbitrum-sepolia-rpc.publicnode.com"
+    endpoint: "https://api.zan.top/arb-sepolia"
     indexer:
       ormp: "https://ormponder.darwinia.network/arbitrum-sepolia"
       signcribe: "https://ormponder.darwinia.network/darwinia"
