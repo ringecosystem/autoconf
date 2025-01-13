@@ -59,7 +59,7 @@ chain:
     name: "sepolia"
     chainId: "11155111"
     confirmations: 15
-    endpoint: "https://endpoints.omniatech.io/v1/eth/sepolia/public"
+    endpoint: "https://sepolia.drpc.org"
     indexer:
       ormp: "https://ormponder.darwinia.network/sepolia"
       signcribe: "https://ormponder.darwinia.network/darwinia"
@@ -101,7 +101,7 @@ chain:
     name: "arbitrumsepolia"
     chainId: "421614"
     confirmations: 20
-    endpoint: "https://endpoints.omniatech.io/v1/arbitrum/sepolia/public"
+    endpoint: "https://sepolia-rollup.arbitrum.io/rpc"
     indexer:
       ormp: "https://ormponder.darwinia.network/arbitrum-sepolia"
       signcribe: "https://ormponder.darwinia.network/darwinia"
