@@ -5,8 +5,8 @@ chain:
     confirmations: 10
     endpoint: "http://c1.crab-rpc.itering.io:9944/"
     indexer:
-      ormp: "https://ormponder.darwinia.network/crab"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -19,8 +19,8 @@ chain:
     confirmations: 10
     endpoint: "https://darwinia-rpc.dwellir.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/darwinia"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -33,8 +33,8 @@ chain:
     confirmations: 10
     endpoint: "https://fraa-flashbox-2871-rpc.a.stagenet.tanssi.network"
     indexer:
-      ormp: "https://ormponder.darwinia.network/pangoro"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -47,8 +47,8 @@ chain:
     confirmations: 10
     endpoint: "https://koi-rpc.darwinia.network"
     indexer:
-      ormp: "https://ormponder.darwinia.network/koi"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -61,8 +61,8 @@ chain:
     confirmations: 15
     endpoint: "https://sepolia.drpc.org"
     indexer:
-      ormp: "https://ormponder.darwinia.network/sepolia"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -75,8 +75,8 @@ chain:
     confirmations: 5
     endpoint: "https://rpc.hekla.taiko.xyz"
     indexer:
-      ormp: "https://ormponder.darwinia.network/taiko-hekla"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -89,8 +89,8 @@ chain:
     confirmations: 5
     endpoint: "https://api.shasta.trongrid.io"
     indexer:
-      ormp: "https://ormponder.darwinia.network/tron-shasta"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0xFF9b99c9F654DAFB00a9EbEd42D221b261ceB8a6"
@@ -103,8 +103,8 @@ chain:
     confirmations: 20
     endpoint: "https://arbitrum-sepolia-rpc.publicnode.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/arbitrum-sepolia"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -117,8 +117,8 @@ chain:
     confirmations: 20
     endpoint: "https://arbitrum-one-rpc.publicnode.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/arbitrum"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -131,8 +131,8 @@ chain:
     confirmations: 15
     endpoint: "https://ethereum-rpc.publicnode.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/ethereum"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -145,8 +145,8 @@ chain:
     confirmations: 10
     endpoint: "https://moonbeam-rpc.dwellir.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/moonbeam"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -159,8 +159,8 @@ chain:
     confirmations: 512
     endpoint: "https://polygon-bor-rpc.publicnode.com"
     indexer:
-      ormp: "https://ormponder.darwinia.network/polygon"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -173,8 +173,8 @@ chain:
     confirmations: 64
     endpoint: "https://rpc.blast.io"
     indexer:
-      ormp: "https://ormponder.darwinia.network/blast"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -187,8 +187,8 @@ chain:
     confirmations: 64
     endpoint: "https://rpc.morphl2.io"
     indexer:
-      ormp: "https://ormponder.darwinia.network/morph"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
@@ -201,8 +201,8 @@ chain:
     confirmations: 5
     endpoint: "https://api.trongrid.io"
     indexer:
-      ormp: "https://ormponder.darwinia.network/tron"
-      signcribe: "https://ormponder.darwinia.network/darwinia"
+      ormp: "https://ormpindexer.vercel.app/graphql"
+      signcribe: "https://ormpindexer.vercel.app/graphql"
     contract:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0xB607762F43F1A72593715497d4A7dDD754c62a6A" # TSZgvR9xTGeG3RXcUKnWWcUAAAEskXdCHj
