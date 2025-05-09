@@ -1,6 +1,6 @@
 
 ormpipe:
-  image: ghcr.io/ringecosystem/ormpipe:sha-b0f0459
+  image: ghcr.io/ringecosystem/ormpipe:sha-39c42a9
   pairs:
     - darwinia-crab
     - darwinia-arbitrum
