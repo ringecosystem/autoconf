@@ -115,7 +115,9 @@ chain:
     name: "arbitrum"
     chainId: "42161"
     confirmations: 20
-    endpoint: "https://arbitrum-one-rpc.publicnode.com"
+    #endpoint: "https://arbitrum-one-rpc.publicnode.com"
+    #endpoint: "https://api-arbitrum-mainnet-archive.n.dwellir.com/76e862fe-da3d-41b8-bbf6-a28db0fbb36f"
+    endpoint: "https://arbitrum-one.public.blastapi.io"
     indexer:
       ormp: "https://ormpindexer.ringdao.com/graphql"
       signcribe: "https://ormpindexer.ringdao.com/graphql"
@@ -129,7 +131,8 @@ chain:
     name: "ethereum"
     chainId: "1"
     confirmations: 15
-    endpoint: "https://ethereum-rpc.publicnode.com"
+    #endpoint: "https://ethereum-rpc.publicnode.com"
+    endpoint: "https://api-ethereum-mainnet.n.dwellir.com/76e862fe-da3d-41b8-bbf6-a28db0fbb36f"
     indexer:
       ormp: "https://ormpindexer.ringdao.com/graphql"
       signcribe: "https://ormpindexer.ringdao.com/graphql"
@@ -157,7 +160,8 @@ chain:
     name: "polygon"
     chainId: "137"
     confirmations: 512
-    endpoint: "https://polygon-bor-rpc.publicnode.com"
+    #endpoint: "https://polygon-bor-rpc.publicnode.com"
+    endpoint: "https://polygon.rpc.subquery.network/public"
     indexer:
       ormp: "https://ormpindexer.ringdao.com/graphql"
       signcribe: "https://ormpindexer.ringdao.com/graphql"
