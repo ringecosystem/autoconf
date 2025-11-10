@@ -11,8 +11,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   darwinia:
     name: "darwinia"
     chainId: "46"
@@ -25,8 +25,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   pangoro:
     name: "pangoro"
     chainId: "45"
@@ -39,8 +39,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   koi:
     name: "koi"
     chainId: "701"
@@ -53,8 +53,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   sepolia:
     name: "sepolia"
     chainId: "11155111"
@@ -67,8 +67,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   taikohekla:
     name: "taikohekla"
     chainId: "167009"
@@ -81,8 +81,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   tronshasta:
     name: "tronshasta"
     chainId: "2494104990"
@@ -109,8 +109,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   arbitrum:
     name: "arbitrum"
     chainId: "42161"
@@ -125,8 +125,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   ethereum:
     name: "ethereum"
     chainId: "1"
@@ -140,8 +140,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   moonbeam:
     name: "moonbeam"
     chainId: "1284"
@@ -154,8 +154,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   polygon:
     name: "polygon"
     chainId: "137"
@@ -169,8 +169,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   blast:
     name: "blast"
     chainId: "81457"
@@ -183,8 +183,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   morph:
     name: "morph"
     chainId: "2818"
@@ -197,8 +197,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   base:
     name: "base"
     chainId: "8453"
@@ -211,8 +211,8 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0x114890eB7386F94eae410186F20968bFAf66142a"
       ormp: "0x13b2211a7cA45Db2808F6dB05557ce5347e3634e"
-      oracle: "0xB49E82067a54b3E8c5D9Db2f378FdB6892C04D2E"
-      multisig: "0x855275aC7Ea4cc4F324915b2Eb48839E447E04bD"
+      oracle: "0x8d8a2Bd991c1d900C59a82a2EEb0DF44e0671aaB"
+      multisig: "0x1CFDaC253d1328210Db477F93612fc5AbB93186B"
   tron:
     name: "tron"
     chainId: "728126428"
@@ -225,5 +225,5 @@ chain:
       signcribe: "0x57aa601a0377f5ab313c5a955ee874f5d495fc92"
       relayer: "0xB607762F43F1A72593715497d4A7dDD754c62a6A" # TSZgvR9xTGeG3RXcUKnWWcUAAAEskXdCHj
       ormp: "0x5C5c383FEbE62F377F8c0eA1de97F2a2Ba102e98" # TJPZeFEdc4TBEcNbku5xVZLQ6B2Q1oGnd1
-      oracle: "0x985BDdbC7E66964f131E3161BA8864f481cBCb2D" # TPromBxYmvqGe73kDxHDhLGEGgoRhwkQsk
-      multisig: "0x2cCB8571345D9A13f3A9D792677ab029b945eFb2" # TE44YQQy7uQXk6TBxXDAkzu4BuFkkDGxZX
+      oracle: "0x2cDc7178013de451ED99607AC15dEF6BAB8C37E6" # TE4QpAUb7vJYJRxsfxfBEcUPP9CS1aoTi4
+      multisig: "0xf0067Da86a62De86Facdef1e7ef940F0361E5123" # TXrLx6CprK2vNpxbWmJBfvy7se1Zgeq638
