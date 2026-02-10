@@ -1,15 +1,10 @@
 
 ormpipe:
-  image: ghcr.io/ringecosystem/ormpipe:v0.2.1
+  image: ghcr.io/ringecosystem/ormpipe:v0.2.2
   pairs:
     - darwinia-arbitrum
     - darwinia-ethereum
     - darwinia-polygon
-    - darwinia-moonbeam
     - darwinia-tron
-    - arbitrum-blast
-    - ethereum-arbitrum
-    - arbitrum-morph
-    - darwinia-base
 
 
